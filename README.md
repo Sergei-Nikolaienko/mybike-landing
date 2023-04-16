@@ -1,5 +1,5 @@
 # Feature-Complete Landing Page
 
-MyBike landing was a training project created using HTML, SCSS and pure Javascript. 
-The purpose for this project was to utilize the BEM structuring convention as well as grid layout structure using the SCSS loop functionality.
+MyBike landing project created using HTML, SCSS and pure Javascript. 
+This project utilized the BEM structuring convention as well as grid layout structure with the use of SCSS loop functionality.
 - [DEMO LINK](https://sergei-nikolaienko.github.io/mybike-landing/)
